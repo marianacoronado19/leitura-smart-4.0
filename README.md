@@ -15,7 +15,7 @@ Este repositório contém um projeto desenvolvido em Python que realiza a coleta
 ## Instalação e Setup
 `bash`
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/leitura-camila.git
+git clone https://github.com/marianacoronado19/leitura-smart-4.0.git
 cd leitura-camila
 # 2. Crie e ative um ambiente virtual
 python -m venv .venv
